@@ -96,7 +96,7 @@ local function setupUI()
         infoLabel.Font = Enum.Font.GothamBold
         infoLabel.TextSize = 16
         infoLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
-        infoLabel.Text = "404 AUTO GRAB  |  Ping: 0ms  |  FPS: 0"
+        infoLabel.Text = "DKHUB AUTO GRAB  |  Ping: 0ms  |  FPS: 0"
         infoLabel.TextXAlignment = Enum.TextXAlignment.Center
         infoLabel.TextYAlignment = Enum.TextYAlignment.Center
         infoLabel.ZIndex = 2
