@@ -32,7 +32,7 @@ local function updateTopBar()
             local dataPing = network.ServerStatsItem:FindFirstChild("Data Ping")
             if dataPing then ping = math.floor(dataPing:GetValue()) end
         end
-        infoLabel.Text = "404 AUTO GRAB  |  Ping: " .. ping .. "ms  |  FPS: " .. fps
+        infoLabel.Text = "DKHUB AUTO GRAB  |  Ping: " .. ping .. "ms  |  FPS: " .. fps
     end)
 end
 
